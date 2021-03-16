@@ -1,12 +1,16 @@
 ## Welcome to GitHub Pages
 
-Xin chào, cảm ơn đã ghé qua đây [HoangGiap.name.vn](https://hoanggiap.name.vn/)
+Xin chào, cảm ơn đã ghé qua đây [HoangGiap.Name.VN](https://hoanggiap.name.vn/)
 ### Hi
 
 Copy Pase
 ```markdown
-Syntax highlighted code block
-
+Uses crt;
+var meow:string;
+begin
+  Clrscr;
+  Write('Day la web cua MeoCop');
+  end.
 # thử nghiệm
 ```
 
