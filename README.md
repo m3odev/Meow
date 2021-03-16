@@ -1,10 +1,9 @@
 ## Welcome to GitHub Pages
 
 Xin chào, cảm ơn đã ghé qua đây. [hoanggiap.name.vn](https://hoanggiap.name.vn/)
-### Markdown
+### Hi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Copy Pase
 ```markdown
 Syntax highlighted code block
 
@@ -24,4 +23,5 @@ aaaaaaaaa
 
 ### Support or Contact
 
-Nếu bạn cần hỗ trợ hoặc trò chuyện thì liên hệ mình qua [Facebook](https://www.facebook.com/CopCute.XyZ/) hoặc [Email](email:copgamingtq@gmail.com) and we’ll help you sort it out.
+Nếu bạn cần hỗ trợ hoặc trò chuyện thì liên hệ mình qua [Facebook](https://www.facebook.com/CopCute.XyZ/) 
+hoặc [Email](email:copgamingtq@gmail.com) and we’ll help you sort it out.
