@@ -14,7 +14,7 @@ begin
 ```
 ### Donate
 ```markdown
-MBBank: 7999999992004
+MBBank: 79 9999999 2004
 Momo: 0974991632
 Bitcoin: 153uvWrtsaWFDtzDdf2efwWajnGR3GUScx
 Eth: 0x1Fb9e08A5662fbC06756d3A1F19EEcD8b4bBD855
