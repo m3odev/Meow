@@ -12,7 +12,13 @@ begin
   end.
 # thử nghiệm
 ```
-
+### Donate
+```markdown
+MBBank: 7999999992004
+Momo: 0974991632
+Bitcoin: 153uvWrtsaWFDtzDdf2efwWajnGR3GUScx
+Eth: 0x1Fb9e08A5662fbC06756d3A1F19EEcD8b4bBD855
+```
 ### Support or Contact
 
 Nếu bạn cần hỗ trợ hoặc trò chuyện thì liên hệ mình qua [Facebook](https://www.facebook.com/CopCute.XyZ/) hoặc [Page](https://www.facebook.com/simsimi.net) tui rất vui khi được biết tới bạn.
