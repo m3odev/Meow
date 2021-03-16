@@ -8,18 +8,7 @@ Copy Pase
 Syntax highlighted code block
 
 # thử nghiệm
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-### Jekyll Themes
-
-aaaaaaaaa
+```
 
 ### Support or Contact
 
