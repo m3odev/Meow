@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Xin chào, cảm ơn đã ghé qua đây. [hoanggiap.name.vn](https://hoanggiap.name.vn/)
+Xin chào, cảm ơn đã ghé qua đây [HoangGiap.name.vn](https://hoanggiap.name.vn/)
 ### Hi
 
 Copy Pase
@@ -12,4 +12,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 
-Nếu bạn cần hỗ trợ hoặc trò chuyện thì liên hệ mình qua [Facebook.com](https://www.facebook.com/CopCute.XyZ/) hoặc [Email](email:copgamingtq@gmail.com) and we’ll help you sort it out.
+Nếu bạn cần hỗ trợ hoặc trò chuyện thì liên hệ mình qua [Facebook](https://www.facebook.com/CopCute.XyZ/) hoặc [Page](https://www.facebook.com/simsimi.net) and we’ll help you sort it out.
