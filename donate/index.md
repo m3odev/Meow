@@ -1,0 +1,9 @@
+### DONATE 
+
+```
+MB_BANK: 79.9999999.2004
+ETH: 
+BITCOIN:
+MOMO: 0974991632
+```
+Thanks for visiting
