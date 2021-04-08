@@ -1,4 +1,4 @@
-## DONATE 
+## Donate – Buy me a coffee!
 
 ```
 MOMO: 0974991632
