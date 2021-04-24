@@ -18,6 +18,9 @@ fr (Français)
 ja (日本語)
 es (Español)
 de (Deutsch)
+pt (Português)
+
+Contact me if you want to update more languages.
 ```
 ### Chatfuel
 ~~~
