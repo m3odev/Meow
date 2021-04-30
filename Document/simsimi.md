@@ -2,7 +2,7 @@
 
 ### Url
 ~~~
-https://api.simsimi.net/v1/?lang=[Language]&cf=[Chatfuel]&text=hi
+GET https://api.simsimi.net/v1/?lang=[Language]&cf=[Chatfuel]&text=hi
 ~~~
 ### Language
 ```
