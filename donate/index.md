@@ -9,7 +9,7 @@ PAYPAL: https://www.paypal.me/copcute
 PLAYER_DUO: https://playerduo.com/5f5f64d35d95db0a954c3b84
 ```
 
-[Facebook](https://m.facebook.com/100039847550995) - [Telegram](https://t.me/meow_cop)
+[Facebook](https://www.facebook.com/100039847550995) - [Telegram](https://t.me/meow_cop)
 
 Thanks for visiting
 #### MeoCop love everyone
