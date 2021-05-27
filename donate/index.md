@@ -1,14 +1,17 @@
 ## Donate – Buy me a coffee!
 
 ```
-MOMO: 0392459698 - LE HOANG GIAP
-MB_BANK: 2222.6789.2004 - LE HOANG GIAP
+LE HOANG GIAP
+MOMO: 0392459698
+MB_BANK: 2222.6789.2004
+VIETTEL PAY: 0392459698
+ZALO PAY: 0392459698
+PAYPAL: copgamingtq@gmail.com
 ```
 
 ```
 ETH: 0x1Fb9e08A5662fbC06756d3A1F19EEcD8b4bBD855
 BITCOIN: 153uvWrtsaWFDtzDdf2efwWajnGR3GUScx
-PAYPAL: https://www.paypal.me/copcute
 PLAYER_DUO: https://playerduo.com/5f5f64d35d95db0a954c3b84
 ```
 
