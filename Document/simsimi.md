@@ -30,7 +30,7 @@ Contact me if you want to update more languages.
 {
     "methods": "GET",
     "messages": [{
-        "ask": "hi",
+        "text": "hi",
         "response": "Hello",
         "result": 100
     }],
